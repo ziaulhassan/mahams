@@ -143,10 +143,10 @@ h6 {
 # Global Header
 --------------------------------------------------------------*/
 .header {
-  --background-color: rgba(255, 255, 255, 0);
-  --heading-color: #ffffff;
+  /* --background-color: rgba(255, 255, 255, 0);
+  --heading-color: #ffffff; */
+  background-color: #3E404C;
   color: var(--default-color);
-  background-color: var(--background-color);
   padding: 20px 0;
   transition: all 0.5s;
   z-index: 997;
