@@ -157,7 +157,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 32px;
+  max-height: 80px;
   margin-right: 8px;
 }
 
@@ -1568,6 +1568,16 @@ section,
   font-weight: 700;
   padding: 0;
   margin: 0 0 20px 0;
+}
+
+.heading-level3 {
+  font-size: 16px;
+  font-weight: 700;
+  padding: 0;
+}
+
+.p-level2 {
+  margin-left: 15px;
 }
 
 .recent-posts .title a {
